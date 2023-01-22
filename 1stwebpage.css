@@ -1,0 +1,228 @@
+body{
+    background-image: url(backgroundfor1stwebpage.jpg);
+    background-size: cover;
+    font-family: 'Markazi Text', serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+header > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    margin-right: 50px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+}
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
+
+.effectone {
+    margin: 10%;
+    size: 2rem
+}
+
+.effecttwo {
+    size: 2rem;
+    margin: 10%;
+    height: 25rem;
+}
+
+.effecttwo > p {
+    outline: solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.effectthree {
+    margin: 10%;
+    size: 2rem;
+}
+
+.effectfour {
+    size: 2rem;
+    margin : 10%;
+    height: 25rem;
+}
+
+.effectfour > p {
+    outline: solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.effectfive {
+    size: 2rem;
+    margin: 10%;
+    height: 25rem;
+}
+
+.effectfive > p {
+    outline: solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerclass {
+    margin-left: 600px;
+}
+
+.above {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: 39px;
+    width: 19rem;
+    
+}
+
+.above {
+    box-shadow: inset 0 0 0 0 black;
+    color: black;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  .above :hover {
+    cursor: pointer;
+    color: #fff;
+    box-shadow: inset 200px 0 0 0 black;
+    transition: 1s;
+  }
+
+  .above {
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+
+.above2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    width: 19rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.above2 {
+    box-shadow: inset 0 0 0 0 black;
+    color: black;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  .above2 :hover {
+    cursor: pointer;
+    color: #fff;
+    box-shadow: inset 200px 0 0 0 black;
+    transition: 1s;
+  }
+  
+  .above2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+
+.above3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    margin-left: 75px;
+    margin-right: auto;
+    width: 19rem;
+}
+
+.above3 {
+    box-shadow: inset 0 0 0 0 black;
+    color: black;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  .above3 :hover {
+    cursor: pointer;
+    color: #fff;
+    box-shadow: inset 200px 0 0 0 black;
+    transition: 1s;
+  }
+  
+  .above3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-decoration: none;
+  }
