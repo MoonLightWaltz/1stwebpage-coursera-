@@ -5,4 +5,4 @@
   <img width="959" alt="image" src="https://user-images.githubusercontent.com/114380747/215081994-c6ad8567-5a2e-4889-bedf-109750610e14.png">
 
 <h2> About </h2>
-<p> This small project is a landing page for a jewlery company </p>
+<p> This small project is a landing page for a jewlery company. Complete with a functional nav bar, article flex boxes and a footer with a logo and copy right text. </p>
