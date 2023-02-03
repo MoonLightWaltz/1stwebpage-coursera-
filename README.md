@@ -6,3 +6,7 @@
 
 <h2> About </h2>
 <p> This small project is a landing page for a jewlery company. Complete with a functional nav bar, article flex boxes and a footer with a logo and copy right text. </p>
+<h2>What I worked with to create this webpage</h2>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
